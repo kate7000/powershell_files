@@ -161,7 +161,7 @@ function Send-Email {
 
     # Sender Credentials
     $Username = "service"
-    $Password = "service2020!"
+    $Password = "password"
 
     # Server Info
     $SmtpServer = "mail.kontora1.com"
