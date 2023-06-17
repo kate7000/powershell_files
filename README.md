@@ -1,1 +1,1 @@
-# PowerShell script for sent email attach list with new files.
+# PowerShell script for sending emails with a list of new files.
