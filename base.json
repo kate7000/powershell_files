@@ -1,0 +1,83 @@
+[
+    {
+        "name":  "all",
+        "bits":  "*",
+        "emails":  [
+                        "a.korchagin@kontora1.com",
+                        "buhuchetnalog@kontora1.com",
+                    "controlTT@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "podolsk",
+        "bits":  "*Подольск СП*",
+        "emails":  [
+                        "controlpodolsk@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "butovo",
+        "bits":  "*Бутово СП*",
+        "emails":  [
+                        "controlbutovo@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "odintsovo",
+        "bits":  "*Одинцово СП*",
+        "emails":  [
+                        "controlodintsovo@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "domodedovo",
+        "bits":  "*Домодедово СП*",
+        "emails":  [
+                        "controldomodedovo@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "balashiha",
+        "bits":  "*Балашиха СП*",
+        "emails":  [
+                        "controlbalashiha@kontora1.com",
+                        "controlbf@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "samara",
+        "bits":  "*Самарский филиал*",
+        "emails":  [
+                        "controlsf@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "tula",
+        "bits":  "*Тула СП*",
+        "emails":  [
+                        "controltula@kontora1.com",
+                        "jurotdelTula@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "ryazan",
+        "bits":  "*Рязань СП*",
+        "emails":  [
+                        "controlryazan@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "belgorod",
+        "bits":  "*Белгород СП*",
+        "emails":  [
+                        "controlbelgorod@kontora1.com"
+                   ]
+    },
+    {
+        "name":  "ekaterinburg",
+        "bits":  "*Екатеринбургский филиал*",
+        "emails":  [
+                        "controlef@kontora1.com"
+                   ]
+    }
+    ]
